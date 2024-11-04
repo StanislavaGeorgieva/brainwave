@@ -4,6 +4,7 @@ import Benefits from './components/Benefits';
 import Colaboration from './components/Colaboration';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Services from './components/Services';
 
 const App = () => {
 
@@ -16,6 +17,7 @@ const App = () => {
         <Hero />
         <Benefits />
         <Colaboration />
+        <Services />
       </div>
       <ButtonGradient />
     </>
