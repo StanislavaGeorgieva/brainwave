@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
+    <a href="https://github.com/StanislavaGeorgieva/brainwave" target="_blank">
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
     </a>
   <br />
@@ -13,9 +13,7 @@
 
   <h3 align="center">Modern UI/UX website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
-    </div>
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
