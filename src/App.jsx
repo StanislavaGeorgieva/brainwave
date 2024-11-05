@@ -1,7 +1,7 @@
-
 import ButtonGradient from './assets/svg/ButtonGradient'
 import Benefits from './components/Benefits';
 import Colaboration from './components/Colaboration';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Pricing from './components/Pricing';
@@ -22,6 +22,7 @@ const App = () => {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
       <ButtonGradient />
     </>
